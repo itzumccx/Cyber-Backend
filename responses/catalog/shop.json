@@ -1,0 +1,94 @@
+{
+  "expiration": "9999-12-31T23:59:59.999Z",
+  "refreshIntervalHrs": 24,
+  "dailyPurchaseHrs": 24,
+  "storefronts": [
+    {
+      "name": "BRDailyStorefront",
+      "catalogEntries": [
+        {
+          "offerId": "v2:/cybershop_cid_001",
+          "offerType": "StaticPrice",
+          "devName": "Default Skin",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:cid_001_athena_commando_f_default",
+              "quantity": 1
+            }
+          ],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "Shared",
+              "regularPrice": 800,
+              "finalPrice": 800,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 800
+            }
+          ],
+          "categories": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "refundable": true,
+          "appStoreId": [],
+          "requirements": [],
+          "metaInfo": [],
+          "displayAssetPath": "",
+          "title": "Default Skin",
+          "shortDescription": "Default",
+          "description": "The default commando skin.",
+          "keyImages": [],
+          "catalogGroup": "",
+          "catalogGroupPriority": 0,
+          "sortPriority": 0,
+          "bannerOverride": "",
+          "additionalGrants": []
+        },
+        {
+          "offerId": "v2:/cybershop_pickaxe_001",
+          "offerType": "StaticPrice",
+          "devName": "Default Pickaxe",
+          "itemGrants": [
+            {
+              "templateId": "AthenaPickaxe:defaultpickaxe",
+              "quantity": 1
+            }
+          ],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "Shared",
+              "regularPrice": 500,
+              "finalPrice": 500,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 500
+            }
+          ],
+          "categories": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "refundable": true,
+          "appStoreId": [],
+          "requirements": [],
+          "metaInfo": [],
+          "displayAssetPath": "",
+          "title": "Default Pickaxe",
+          "shortDescription": "Default",
+          "description": "The default pickaxe.",
+          "keyImages": [],
+          "catalogGroup": "",
+          "catalogGroupPriority": 0,
+          "sortPriority": 1,
+          "bannerOverride": "",
+          "additionalGrants": []
+        }
+      ]
+    },
+    {
+      "name": "BRWeeklyStorefront",
+      "catalogEntries": []
+    }
+  ]
+}

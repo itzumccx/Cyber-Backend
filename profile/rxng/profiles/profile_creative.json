@@ -1,0 +1,24 @@
+{
+	"rvn":	1,
+	"wipeNumber":	1,
+	"profileId":	"creative",
+	"version":	"fix_empty_users_again_july_2019",
+	"items":	{
+	},
+	"stats":	{
+		"attributes":	{
+			"last_used_battlelab_file":	"",
+			"max_island_plots":	50,
+			"publish_allowed":	true,
+			"support_code":	"",
+			"last_used_plot":	"",
+			"permissions":	[],
+			"creator_name":	"",
+			"publish_banned":	false,
+			"inventory_limit_bonus":	0
+		}
+	},
+	"created":	"2026-09-30T18:00:24.000Z",
+	"updated":	"2026-09-30T18:00:24.000Z",
+	"accountId":	"rxng"
+}
